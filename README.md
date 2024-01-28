@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Daffa, a full time Software Engineer (Front End) based in Indonesia. I'm also a fresh graduates who just started to jump in software development space 1 year ago. One of my favorites part about front end are React, Next Js, Tailwind CSS, and Typescript. Not only Front End, i currently also learning about UI/UX Design, Mobile Development (React Native & Flutter) and Data Analysis (Python, Tableau and SQL Databases).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daffabadrant9390)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **daffabadrant9390/daffabadrant9390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
